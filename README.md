@@ -1,6 +1,6 @@
-# Page Draw & Doodle
+# ![image](https://addons.mozilla.org/user-media/addon_icons/2916/2916903-32.png?modified=c22be1af&1748135068656) Page Draw & Doodle
 
-Page Draw & Doodle transforms any webpage into an interactive canvas to draw and annotate on.
+[Page Draw & Doodle](https://addons.mozilla.org/en-US/firefox/addon/page-draw-doodle/) transforms any webpage into an interactive canvas to draw and annotate on.
 
 ![image](https://addons.mozilla.org/user-media/previews/full/321/321687.png?modified=1748134822)
 
