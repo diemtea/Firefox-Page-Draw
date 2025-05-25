@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "Page Draw & Doodle",
+  "version": "1.0",
+  "description": "Page Draw & Doodle transforms any webpage into an interactive canvas to draw and annotate on.",
+  "permissions": [
+    "storage",
+    "contextMenus",
+    "tabs",
+    "activeTab",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "Page Draw & Doodle",
+    "default_icon": {
+      "512": "icon.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content_script.js"],
+      "css": ["menu.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}

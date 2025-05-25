@@ -1,0 +1,26 @@
+<div id="draw-floating-menu" aria-label="Drawing tools">
+    <!-- drag handle -->
+    <div id="drag-handle" title="Drag to move">≡</div>
+    
+  <!-- undo / redo / clear -->
+  <button data-action="undo"  title="Undo">⟲</button>
+  <button data-action="redo"  title="Redo">⟳</button>
+  <button data-action="clear" title="Clear Canvas">🗑</button>
+
+  <!-- shape mode selector -->
+  <div id="shape-controls" title="Drawing Mode">
+    <button class="shape-btn" data-shape="free" title="Free Draw">🖍</button>
+    <button class="shape-btn" data-shape="rect" title="Rectangle">□</button>
+    <button class="shape-btn" data-shape="circle" title="Circle">○</button>
+  </div>
+
+  <!-- brush preview, color & size -->
+  <div class="brush-container">
+    <div id="brush-preview" title="Brush Color & Size"></div>
+  </div>
+  <input type="color"   id="brush-color-input" />
+  <input type="range"   id="brush-size-input" min="1" max="30" value="5" />
+
+  <!-- exit button -->
+  <button data-action="close" title="Exit Draw Mode">✕</button>
+</div>
