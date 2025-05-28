@@ -1,8 +1,12 @@
-# ![image](https://addons.mozilla.org/user-media/addon_icons/2916/2916903-32.png?modified=c22be1af&1748135068656) Page Draw & Doodle
+# ![image](https://addons.mozilla.org/user-media/addon_icons/2916/2916903-64.png?modified=7814d5a8) Page Draw & Doodle
 
 [Page Draw & Doodle](https://addons.mozilla.org/en-US/firefox/addon/page-draw-doodle/) transforms any webpage into an interactive canvas to draw and annotate on.
 
-![image](https://addons.mozilla.org/user-media/previews/full/321/321687.png?modified=1748134822)
+![image](https://addons.mozilla.org/user-media/previews/thumbs/321/321993.jpg?modified=1748448858)
+
+## New in v1.1
+* **Shortcuts**  - Undo (CTRL+Z), Redo (CTRL+Y), Clear (ALT+C), Toggle drawing (ALT+A). All modifiable via Firefox's Manage Extension Shortcuts page. 
+* **Better UI**  - Improved stability and consistency across different themes and web pages.
 
 ## Features
 
