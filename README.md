@@ -5,7 +5,7 @@
 ![image](https://addons.mozilla.org/user-media/previews/thumbs/321/321993.jpg?modified=1748448858)
 
 ## New in v1.1
-* **Shortcuts**  - Undo (CTRL+Z), Redo (CTRL+Y), Clear (ALT+C), Toggle drawing (ALT+A). All modifiable via Firefox's Manage Extension Shortcuts page. 
+* **Shortcuts**  - Undo `CTRL + Z`, Redo `CTRL + Y`, Clear `ALT + C`, Toggle drawing `ALT + A`. All modifiable via Firefox's Manage Extension Shortcuts page. 
 * **Better UI**  - Improved stability and consistency across different themes and web pages.
 
 ## Features
